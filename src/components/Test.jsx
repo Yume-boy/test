@@ -2,7 +2,9 @@ import React from 'react'
 
 const git = () => {
   return (
-    <div>git</div>
+    <div>
+        <div>new stuff</div>
+    </div>
   )
 }
 
